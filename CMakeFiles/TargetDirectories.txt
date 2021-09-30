@@ -1,0 +1,3 @@
+/home/yates/software/minimal-js-runtime/CMakeFiles/rebuild_cache.dir
+/home/yates/software/minimal-js-runtime/CMakeFiles/edit_cache.dir
+/home/yates/software/minimal-js-runtime/CMakeFiles/runtime.dir

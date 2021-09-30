@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yates/software/minimal-js-runtime/api/cli.c
+fireant.h
+/home/yates/software/minimal-js-runtime/api/fireant.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/home/yates/software/minimal-js-runtime/api/fireant.h
+quickjs.h
+-
+uv.h
+-
+
+/home/yates/software/quickjs/build/include/quickjs/quickjs.h
+stdio.h
+-
+stdint.h
+-
+
